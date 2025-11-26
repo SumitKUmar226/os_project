@@ -132,8 +132,7 @@ os project report14
 
 *Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/os_project.git
-cd os_project
+git clone https://github.com/mRsUmItKuMaRcOdEr/os_project
 
 2. Install dependencies
 pip install -r requirements.txt
